@@ -1,0 +1,1 @@
+cout << "NB" << endl;
